@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More hearts and hands appearing for the work. Being two letters, the one sent from Collonel Robert Overton, Governour of Hull, to his Excellency the Lord Generall Cromwel. The other from him, and the officers of the said garrison, to the Councel of Officers, sitting at White-Hall. Wherein their reall and large affection is declared toward the Armies happy proceeding; shewing withall, the justnesse of it, and their readinesse to serve them, and the Common-wealth, in prosecuting so good a work, to their utmost power. With, a modest and humble desire, that just and good things may be done.</title>
+            <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90253</idno>
+            <idno type="STC">Wing O643</idno>
+            <idno type="STC">Thomason E699_7</idno>
+            <idno type="STC">ESTC R203111</idno>
+            <idno type="EEBO-CITATION">99863188</idno>
+            <idno type="PROQUEST">99863188</idno>
+            <idno type="VID">166557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166557)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E699[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More hearts and hands appearing for the work. Being two letters, the one sent from Collonel Robert Overton, Governour of Hull, to his Excellency the Lord Generall Cromwel. The other from him, and the officers of the said garrison, to the Councel of Officers, sitting at White-Hall. Wherein their reall and large affection is declared toward the Armies happy proceeding; shewing withall, the justnesse of it, and their readinesse to serve them, and the Common-wealth, in prosecuting so good a work, to their utmost power. With, a modest and humble desire, that just and good things may be done.</title>
+                  <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons, next door to the gilded Lyon in Aldersgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 7.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Military --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166557:1" rendition="simple:additions"/>
+            <p>MORE HEARTS and HANDS Appearing for the WORK.</p>
+            <p>
+               <hi>Being two</hi> LETTERS, The one ſent from Collonel <hi>Ro<g ref="char:EOLhyphen"/>bert Overton,</hi> Governour of <hi>Hull,</hi> to his Excellency the Lord Generall <hi>CROMWEL.</hi>
+            </p>
+            <p>The other from him, and the Officers of the ſaid Garriſon, to the COUNCEL OF OF<g ref="char:EOLhyphen"/>FICERS, ſitting at <hi>WHITE-HALL.</hi>
+            </p>
+            <p>Wherein their reall and large affection is declared toward the Armies happy proceeding; ſhewing with<g ref="char:EOLhyphen"/>all, the Juſtneſſe of it, and their readineſſe to ſerve them, and the Common-wealth, in proſecuting ſo good a work, to their utmoſt power.</p>
+            <p>
+               <hi>WITH,</hi> A modeſt and humble deſire, that juſt and good things may be done.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. Simmons,</hi> next door to the gilded Lyon in <hi>Alderſgate</hi>-ſtreet, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166557:2"/>
+            <pb n="1" facs="tcp:166557:2"/>
+            <opener>
+               <salute>May it pleaſe Your Excellency;</salute>
+            </opener>
+            <p>I Make bold herein to in cloſe, and humbly pre<g ref="char:EOLhyphen"/>ſent, the Concurrance of the Officers of this Garriſon, with what Your Lordſhip, &amp; Your Councell of Officers have done and declared, upon the diſſolution of the late Parliament: Herein it is a duty incumbent upon us, to bleſſe Al<g ref="char:EOLhyphen"/>mighty God on your behalves, who hath, we truſt, ſtirred You up to thoſe Undertakings, wherein we witneſſe with You to the world, our independence to all unjuſt Powers, and in the oppoſition whereof, the Lawes of Nature and Nations, are no leſſe pen<g ref="char:EOLhyphen"/>dant, then perpetuall.</p>
+            <p>Your Actions paſt and preſent have dared to de<g ref="char:EOLhyphen"/>clare as much, and no doubt all lovers of Truth, Righteouſneſſe, and Freedome, will be really ready to further and follow Your Excellency and Honour therein, to doe other wayes were a crime inexcuſa<g ref="char:EOLhyphen"/>ble. This Nation hitherto for many years, patient<g ref="char:EOLhyphen"/>ly expected what the late Maſters of our Vineyards would doe, and ſeeing now the Lord hath put their power upon You, we doubt not but You wil ſo wiſe<g ref="char:EOLhyphen"/>ly &amp; worthily diſpoſe thereof, as it may appear You are the perſons appointed to perfect that work, for neglect whereof the late Parliament was laid aſide. If
+<pb n="2" facs="tcp:166557:3"/>herein the Lord ſhall pleaſe to honour Your Excel<g ref="char:EOLhyphen"/>lency, and the Army, I doubt not but Religion and Liberty ſhall againe flouriſh, whileſt Tyranny and Oppreſſion, like a deſolate woman, ſhall dye Child<g ref="char:EOLhyphen"/>leſſe; Thus to ſee our patient abiding bring forth the quiet fruits of peace and righteouſneſſe, would taſk all tongues and hearts, who have prayed for You, to praiſe God with You, ſo to doe is undoubt<g ref="char:EOLhyphen"/>edly neither treaſon nor tumult; however if the iſ<g ref="char:EOLhyphen"/>ſue of our endeavours here doe not juſtifie us, our Conſciences will, and with this reſolution I beg here amongſt the reſt, to remaine</p>
+            <closer>
+               <signed>Your Excellencies and Honours humble and aſſured Servant, <hi>R. O.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:166557:3"/>
+            <head>To his Excellency, and his Generall Councell of Officers.</head>
+            <p>WEE the Officers and Souldiers in the Garriſon of <hi>Kingston</hi> upon <hi>Hull,</hi> humbly Remonſtrate our free and hearty Concurrence with the Reaſons given for Your diſſo<g ref="char:EOLhyphen"/>lution of the late Parliament; whereby we ſuppoſe, ſo plain a path-way is made for the propagation of Piety, ſuppreſſing all unjuſt Powers, and thereupon ſo good grounds laid downe for the vindication of Publique Liberty, as had we not ſeen the Declara<g ref="char:EOLhyphen"/>tion of our Comrades in <hi>Scotland,</hi> to that effect, we ſhould not at this have time thought it neceſſary thus publickly to have appeared.</p>
+            <p>But ſeeing that Unity and Reſolution, are two great links in the chain of Government, and it being no leſſe praiſe actively and unanimouſly to proſe<g ref="char:EOLhyphen"/>cute, then reſolutely to undertake, though we by our worthleſſe influence cannot at all ſtrengthen Your hands, yet we hope hereby we may ſhew our hearts and affections, which for the furtherance thereof ſhould we not doe, we might occaſion a queſtion to be made of our integrity to the preſent undertakings, for the making good of our former ingagements to God and men, or render our ſelves not unlike the Carter, who was ſaid to pray in vain, becauſe he put not his ſhoulder to the wheel. And
+<pb n="4" facs="tcp:166557:4"/>though it become not us to be over prodigall in breaking the ice to others, yet if we follow our lead<g ref="char:EOLhyphen"/>ers herein, as faithfully, as formerly others have don, we doubt not but like indulgent Parents you will accept of our good will how weakly ſoever execu<g ref="char:EOLhyphen"/>ted. We need not as we ſuppoſe, at this diſtance promiſe more then what our prayers and integrity to our particular truſtties us to: we likewiſe believe the Lord our God will give you an active and ex<g ref="char:EOLhyphen"/>cellent ſpirit, to caſt out every accurſed thing, and to go on in the eſtabliſhment of Juſtice and Righte<g ref="char:EOLhyphen"/>ouſneſſe to the Nation; in the purſuance whereof, we ſuppoſe no publick ſpirits will prove ſick of Your ſuperiority, or fall into an emulating Feaver, for Your putting a period to the late Parliament, ſome whereof were grown ſo dainty of their duties, and deaf to our Complaints, as if they had reſolved to live idly, and laugh at our diſtreſſes; we hope the People may expect better fruits from your Endea<g ref="char:EOLhyphen"/>vours, who well know upon what terms You ſtand. Your Excellency and Honours, have been neceſſita<g ref="char:EOLhyphen"/>ted to take much upon You, for which much will be Expected from You, and we hope in the beſt ſenſe, much aſcribed to You, otherwiſe all Your underta<g ref="char:EOLhyphen"/>kings like fair fruit in an unwholeſome diſh, or as the Apples of <hi>Sodome,</hi> will conſume untoucht or taſted. It would be needleſſe to ſuch aſſerters of publick li<g ref="char:EOLhyphen"/>berty, to ſay much of the popular ſupremacy, which hath occaſioned the great Conqueſts and Controver<g ref="char:EOLhyphen"/>ſies of the world: Your Excellency well know<g ref="char:punc">▪</g> how this Fortification hath ſtood ſtrengthned againſt time, and Nature in this poynt jealous of her own intereſt, hath even in ordinary ſpirits amongſt us and others, oppoſed oppreſſion. But we believe we
+<pb n="5" facs="tcp:166557:4"/>ſhall have cauſe to bleſſe Almighty God for theſe mild and juſt Adminiſtrations of preſent and expec<g ref="char:EOLhyphen"/>ted Power, wherein piety, may prevail above reaſon or policy, and prudence ſo moderate Authority, as that it may both guard greatneſſe, and make good<g ref="char:EOLhyphen"/>neſſe more good and great.</p>
+            <p>We are not able to offer much toward the model<g ref="char:EOLhyphen"/>ling of a new and neceſſary Repreſentative, for the eſtabliſhment of a good and happy Government. It's true popular place fits men for fame and buſineſſe, but ſuch have neither freedom in perſon, act, or time, and have only an opinionative felicity, conſi<g ref="char:EOLhyphen"/>ſting in much veneration and little reſt; yet we deny not, but the diſcharge of duty is the end of all things, and perſons qualified with parts and piety, put in great places or power, like heavenly bodies, ought to have influence over us, and can cauſe good or e<g ref="char:EOLhyphen"/>vil times, as God gives a gift, or gives not the grace.</p>
+            <p>Indeed Ambition make ſome ſet themſelves to a<g ref="char:EOLhyphen"/>ction or conſultation, yet ſuch if they riſe not with their ſervice, doe often make their ſervice fall with them. But thoſe who ſeek buſineſs upon Conſcience, rather then for credit or profit, can eaſily diſcern a buſie nature, from a willing mind, &amp; will be active or paſſive, according to appointment and opportunity, rather out of duty, then deſigne.</p>
+            <p>We wiſh at this diſtance we were able to propoſe or preſent any new Remedies for old Evils, but as one ſaid, <hi>Its not good meddling with State-maſters,</hi> all the Acts thereof are like a Paracelſian Plaiſter, dan<g ref="char:EOLhyphen"/>gerous; yet we find a froward retention of cuſtom is more troubleſome to theſe times, then innovation; for although unneceſſitated experiments in States are difficult, yet where Reformation draws an act<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:166557:5"/>(ſo deſire of Change, pretended Reformation) all may do well; for ſelf-preſervation (if neceſſita<g ref="char:EOLhyphen"/>ted) is no leſs prudent then juſt, how irregular ſo<g ref="char:EOLhyphen"/>ever. But we deny not it is unſafe ſometimes to o<g ref="char:EOLhyphen"/>ver-chiminize a State, whereby the reverence of Go<g ref="char:EOLhyphen"/>vernment may be either loſt or laid aſide, yet in this reſpect our feares may o're-fathom our feeling: we may, to make the Sheep-paſture in peace, hunt away the Wolves from the fold by force. Take away Tax<g ref="char:EOLhyphen"/>es, propagate Piety, regulate the Lawes, redreſſe Grievances, pay the Publick Debts, ſqueeze Spun<g ref="char:EOLhyphen"/>gy Oppreſſors, and Unworthy perſons preferred, and how extrajudiciall ſoever you are herein, you may expect a <hi>Well done good and faithfull Servants,</hi> when all is ended.</p>
+            <p>But all we can add, is, to beg wiſedom and coun<g ref="char:EOLhyphen"/>cell on your behalfes, that as your Excellency and Honours have undertaken much, ſo you may have much religion, reaſon, and reſolution, to diſcharge thoſe undertakings, that all your attempts may end in ſuch attainments, as may augment the luſtre of your former actings, that ſo all our hearts and hands may be tied unto you, and ſtrengthned for you; that piety, peace, and proſperity may be promoted, af<g ref="char:EOLhyphen"/>flicted virtue comforted, righteouſneſs, and righte<g ref="char:EOLhyphen"/>ous men cheriſhed, all other good things aſſured, and aſcertained. Upon this accompt and ſcore, we unanimouſly declare our reall readineſs to live and dye with you in the oppoſition of all unjuſt power, or practices, whether Martiall, Eccleſiaſticall, or Ci<g ref="char:EOLhyphen"/>vill, whether Regal, Royal, or Parliamentary.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
